@@ -1,2 +1,3 @@
 # SunPro-Go
-Student project for Georgia Tech.
+See the test prototype here:
+https://vellissa.github.io/SunPro-Go/
