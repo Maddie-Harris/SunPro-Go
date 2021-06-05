@@ -1,0 +1,32 @@
+body {
+  font-family: Gotham;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: Gotham Bold;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+h2 {
+  font-family: Gotham Bold;
+  font-size: 18px;
+}
+
+h3 {
+  font-family: Gotham Medium;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+h4 {
+  font-family: Gotham Bold;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+p {
+  font-family: GT Eesti Pro Display;
+  font-size: 16px;
+}
