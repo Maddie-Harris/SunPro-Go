@@ -30,3 +30,90 @@ p {
   font-family: GT Eesti Pro Display;
   font-size: 16px;
 }
+
+.jumbotron {
+  background-image: url(../images/SunPro\ Go\ Jumbotrone\ Header.png);
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+/*Start Navigation*/
+.sunProNav {
+  background-color: #44a0b6 !important;
+  font-family: Gotham !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+}
+
+.dropdown-item {
+  background-color: #44a0b6 !important;
+  color: white !important;
+  font-family: Gotham !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+}
+
+.nav-link {
+  color: white !important;
+  font-family: Gotham !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+}
+
+.navbar-toggler-icon {
+  color: white !important;
+  background-image: url("../images/navIcon.png") !important;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+/*End Navigation*/
+.buttons {
+  margin-left: 16px;
+  width: 375px;
+  height: 450px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(202, 202, 202);
+}
+#product {
+  margin-left: 16px;
+  width: 164px;
+  height: 122px;
+}
+
+#learningcenter {
+  position: relative;
+  margin-left: 16px;
+  width: 164px;
+  height: 122px;
+}
+
+#avgcost {
+  margin-top: 16px;
+  margin-left: 16px;
+  width: 164px;
+  height: 122px;
+}
+
+#getaquote {
+  margin-top: 16px;
+  margin-left: 16px;
+  width: 164px;
+  height: 122px;
+}
+
+#vistools {
+  margin-top: 16px;
+  margin-left: 16px;
+  width: 164px;
+  height: 122px;
+}
+
+#contactus {
+  margin-top: 16px;
+  margin-left: 16px;
+  width: 164px;
+  height: 122px;
+}
