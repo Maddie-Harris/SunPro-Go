@@ -37,3 +37,35 @@ p {
   height: 100%;
   width: 100%;
 }
+
+/*Start Navigation*/
+  .sunProNav {
+    background-color: #44A0B6 !important;
+    font-family: Gotham !important;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+  }
+
+  .dropdown-item {
+    background-color: #44A0B6 !important;
+    color: white !important;
+    font-family: Gotham !important;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+  }
+
+  .nav-link {
+    color: white !important;
+    font-family: Gotham !important;
+    font-weight: 500 !important;
+    font-size: 18px !important;  
+  }
+
+  .navbar-toggler-icon {
+    color: white !important;
+    background-image: url("../images/navIcon.png") !important;
+    display: flex;
+    align-items:flex-start;
+    justify-content: flex-start;
+  }
+/*End Navigation*/
