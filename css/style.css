@@ -37,3 +37,14 @@ p {
   height: 100%;
   width: 100%;
 }
+
+#swipezone{
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position:fixed;
+  bottom:0px;
+  
+}
