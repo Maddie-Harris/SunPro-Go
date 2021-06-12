@@ -41,8 +41,9 @@ p {
   display: flex;
   align-items: center;
 }
+
 .preloader img {
-  animation: rotation 0.5s linear 3;
+  animation: rotation 1.5s linear;
   transition: all;
   width: 150px;
   margin: 0 auto;
@@ -51,11 +52,28 @@ p {
 @keyframes rotation {
   from {
     transform: rotate(0deg);
+    opacity: 0;
   }
   to {
     transform: rotate(359deg);
+    opacity: 1;
   }
 }
+
+#fadeElem div {
+  animation: fadeIn 3s linear;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+
+    opacity: 1;
+  }
+}
+
 
 .jumbotron {
   background-image: url(../images/SunPro\ Go\ Jumbotrone\ Header.png);
