@@ -69,13 +69,19 @@ p {
   justify-content: flex-start;
 }
 /*End Navigation*/
+
+/*Start Navigation*/
+.display-4 {
+  color: white;
+}
+/*End Navigation*/
 .buttons {
   margin-left: 16px;
   width: 375px;
   height: 450px;
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: rgb(202, 202, 202);
+  background-color: white;
 }
 #product {
   margin-left: 16px;
